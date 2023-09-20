@@ -1,0 +1,25 @@
+a:link{
+    color: rgb(101, 101, 192);
+}
+a:visited{
+    color: rgb(120, 227, 120);
+}
+a:hoover{
+    color: rgb(193, 93, 0);
+}
+a:active{
+    color: rgb(148, 7, 103);
+}
+.button{
+    border-radius: 5px;
+    border: none;
+    background-color: midnightblue;
+    color: #FFFF;
+    text-align: center;
+    font-size: 28px;
+}
+.button:hover {background-color: rgb(12, 205, 77);}
+.button:active {
+    background-color: #e0cf5b;
+    box-shadow: 0 5px #c41919;
+} 
